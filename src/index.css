@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Nexa Rust Slab-Trial Black 3';
+}
+
+*::selection{
+  /* background-color: aqua; */
+  color: rgb(168, 248, 48);
+}
+
