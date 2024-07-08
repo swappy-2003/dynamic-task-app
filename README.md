@@ -19,7 +19,7 @@ A modern and interactive React application built with:
 
 2. **Install dependencies:**
 
-   
+   ```bash
    cd dynamic-task-app
    npm install
    ``` (or `yarn install`)
