@@ -14,13 +14,13 @@ A modern and interactive React application built with:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/swappy-2003/dynamic-task-app
    ```
 
 2. **Install dependencies:**
 
-   ```bash
-   cd your-project-name
+   
+   cd dynamic-task-app
    npm install
    ``` (or `yarn install`)
 
@@ -79,9 +79,7 @@ your-project-name/
 2. **Choose a hosting platform:** Select a suitable hosting platform (Netlify, Vercel, etc.).
 3. **Deploy the production build:** Follow the specific instructions for your chosen platform.
 
-### Contributing
 
-We welcome contributions! Please refer to the `CONTRIBUTING.md` file (if present) for guidelines.
 
 ### License
 
